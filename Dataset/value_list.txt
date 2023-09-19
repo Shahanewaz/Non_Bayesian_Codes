@@ -1,0 +1,5 @@
+p-value
+
+divison		Discount Band		Units Sold
+Equal		1.707e-82		0.0016
+Continent	0.255			0.473
