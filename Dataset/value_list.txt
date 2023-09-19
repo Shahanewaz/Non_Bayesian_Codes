@@ -1,5 +1,5 @@
 p-value
 
 divison		Discount Band		Units Sold
-Equal		1.707e-82		0.0016
+Most low/high	8.854e-16		0.0306
 Continent	0.255			0.473
